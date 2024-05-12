@@ -1,5 +1,5 @@
-# Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 
+# Ex. No.5  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
+
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -59,9 +59,18 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+![328749687-8baed824-a260-47c0-b3eb-c812da2c5864](https://github.com/Dhanu654/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/148514965/1947476d-a393-4cb5-bdfd-986b326731d0)
+![328749806-40cb2cd0-9be0-4185-9636-87e548cb5354](https://github.com/Dhanu654/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/148514965/f81ae188-6d9b-45ce-a4d4-a6f332a70365)
+![328749846-c0767f0f-4910-4e82-8784-181f20d0e31c](https://github.com/Dhanu654/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/148514965/bc00425b-3102-412c-b7d2-2e690975fb83)
+![328749880-a3d3a101-84a4-4b09-b56a-149825918803](https://github.com/Dhanu654/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/148514965/98c67413-1aeb-4743-b9ac-de8e95aca461)
+![328749953-f57bd9d7-4fc2-4f96-829a-0c76709525ad](https://github.com/Dhanu654/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/148514965/405cb79c-5029-4187-8395-2ce9b6701aaf)
+![328750048-d471860c-7e66-4241-a76a-fb0701ebd547](https://github.com/Dhanu654/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/148514965/b215effb-22f5-41ce-8210-1147feb70b33)
 
-### Name: 
-### Register Number:
+
+
+
+### Name: DHANUSYA K
+### Register Number: 212223230043
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
